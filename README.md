@@ -25,5 +25,40 @@ I am currently studying Computer Systems Engineering - Information Security :com
 ## Skills :wrench:
 - Back-end Development (Django Development) :computer: :snake:
 - Cybersecurity :guardsman:
+<br />
 
+<h2 align="center">Quick Overview 📈</h2>
+  
+  <p align = "center">
+ 
+</p>
+
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=Mahmoud-Hijjeh&count_private=true&theme=dracula&hide_border=true" alt = "mkhasib's Contribution" width = 400 >
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=mkhasib&count_private=true&theme=dracula&hide_border=true" alt = "mkhasib's Rating" width = 400 >
+
+</p>
+
+<p align = "center">
+
+ <img src = "https://github-readme-stats.vercel.app/api/top-langs?username=Mahmoud-Hijjeh&show_icons=true&count_private=true&locale=en&layout=compact&langs_count=10&hide_border=true&bg_color=282A36&title_color=DD6387&text_color=fff&icon_color=fff" alt = "Mahmoud-Hijjeh's Languages/Frameworks" width = 400 />
+</p>
+
+
+<br />
+<h2 align="center">Visitors 👀</h2>
+<div align="center" >
+  <img src="https://profile-counter.glitch.me/Mahmoud-Hijjeh/count.svg"></img>
+</div>
+
+<br /><br />
+<h2 align="center">Let's Connect 😎</h2>
+<p align="center">
+  <a href = "mahmoud2001asoom@gmail.com"><img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height = 30></a>
+  <a href = "https://www.linkedin.com/in/ma7moud-hijjeh/"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"     height = 30></a>
+ 
+</p>
+
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
 Thank you for visiting my profile :smiley: . Feel free to check out my projects and reach out to me if you have any questions or want to collaborate on a project :handshake: .
