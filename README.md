@@ -34,8 +34,8 @@ I am currently studying Computer Systems Engineering - Information Security :com
 </p>
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=Mahmoud-Hijjeh&count_private=true&theme=dracula&hide_border=true" alt = "Mahmoud's Contribution" width = 400 >
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=Mahmoud-Hijjeh&count_private=true&theme=dracula&hide_border=true" alt = "mahmoud's Rating" width = 400 >
+  <img src = "https://github-readme-stats.vercel.app/api?username=Mahmoud-Hijjeh&count_private=true&theme=gotham&hide_border=true" alt = "Mahmoud's Contribution" width = 400 >
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=Mahmoud-Hijjeh&count_private=true&theme=gotham&hide_border=true" alt = "mahmoud's Rating" width = 400 >
 
 </p>
 
