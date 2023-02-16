@@ -59,6 +59,7 @@ I am currently studying Computer Systems Engineering - Information Security :com
  
 </p>
 
+Thank you for visiting my profile :smiley: . Feel free to check out my projects and reach out to me if you have any questions or want to collaborate on a project :handshake:  .
+
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
-Thank you for visiting my profile :smiley: . Feel free to check out my projects and reach out to me if you have any questions or want to collaborate on a project :handshake: .
