@@ -15,6 +15,7 @@ I am currently studying Computer Systems Engineering - Information Security :com
 ## Skills :wrench:
 - Back-end Development (Django Development) :computer: :snake:
 - Cybersecurity :guardsman:
+- AWS Certified Cloud Practitioner
 <br />
 
 <h2 align="center">Quick Overview 📈</h2>
