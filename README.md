@@ -5,7 +5,7 @@
 
 # Mahmoud Hijjeh :trident:
 
-I am currently studying Computer Systems Engineering - Information Security :computer:. I am a self-motivated senior student with a strong passion for cybersecurity :guardsman: . My main area of expertise is in Back-end Development :computer: and I have 3 months of educational experience in Django Development :snake: and I worked on a lot of projects in this area.I have a strong drive to constantly keep learning new technologies and to improve my skills in the backend side and cybersecurity.:muscle:
+I am Computer Systems Engineer - Information Security :computer:. I am a self-motivated senior with a strong passion for cybersecurity :guardsman: . My main area of expertise is in Back-end Development :computer: and I have 3 months of educational experience in Django Development :snake: and I worked on a lot of projects in this area.I have a strong drive to constantly keep learning new technologies and to improve my skills.:muscle:
 
 ## Projects :book:
 - Flash Cards App :card_index:
