@@ -5,7 +5,7 @@
 
 # Mahmoud Hijjeh :trident:
 
-I am a Computer Engineer :computer:. I am a self-motivated senior with a strong passion for cybersecurity :guardsman: . My main area of expertise is in Back-end Development :computer: and I have 3 months of educational experience in Django Development :snake: and I worked on a lot of projects in this area.I have a strong drive to constantly keep learning new technologies and to improve my skills.:muscle:
+A recent graduate in Computer Systems Engineering :computer: with a specialization in Information Security, achieving a strong academic record (86.4%). Skilled in software development with a focus on backend technologies,particularly Django and Python :snake:, alongside experience in frontend development and database management.Certified in AWS Cloud Practitioner and CEH, with additional training in full-stack development and cybersecurity.Proficient in leveraging tools like Git, Docker, and Linux environments to build efficient, secure, and scalable software solutions. Known for problem-solving abilities, adaptability, and effective communication, I am eager to contribute to software engineering projects and further enhance my expertise in the field.
 
 ## Projects :book:
 - Flash Cards App :card_index:
