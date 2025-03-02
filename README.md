@@ -46,7 +46,7 @@ A recent graduate in Computer Systems Engineering :computer: with a specializati
 <br /><br />
 <h2 align="center">Let's Connect 😎</h2>
 <p align="center">
-  <a href = "mahmoud2001asoom@gmail.com"><img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height = 30></a>
+  <a href = "mahmoudhijjeh22@gmail.com"><img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height = 30></a>
   <a href = "https://www.linkedin.com/in/ma7moud-hijjeh/"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"     height = 30></a>
  
 </p>
