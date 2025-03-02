@@ -5,7 +5,7 @@
 
 # Mahmoud Hijjeh :trident:
 
-A recent graduate in Computer Systems Engineering :computer: with a specialization in Information Security, achieving a strong academic record (86.4%). Skilled in software development with a focus on backend technologies,particularly Django and Python :snake:, alongside experience in frontend development and database management.Certified in AWS Cloud Practitioner and CEH, with additional training in full-stack development and cybersecurity.Proficient in leveraging tools like Git, Docker, and Linux environments to build efficient, secure, and scalable software solutions. Known for problem-solving abilities, adaptability, and effective communication, I am eager to contribute to software engineering projects and further enhance my expertise in the field.
+:computer:I'm skilled in software development with a focus on backend technologies,particularly Django and Python :snake:, alongside experience in frontend development and database management.Certified in AWS Cloud Practitioner and CEH, with additional training in full-stack development and cybersecurity.Proficient in leveraging tools like Git, Docker, and Linux environments to build efficient, secure, and scalable software solutions. Known for problem-solving abilities, adaptability, and effective communication, I am eager to contribute to software engineering projects and further enhance my expertise in the field.
 
 ## Projects :book:
 - eMarket
